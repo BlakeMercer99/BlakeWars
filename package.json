@@ -1,0 +1,26 @@
+{
+  "name": "blakewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlakeMercer99/BlakeWars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BlakeMercer99/BlakeWars/issues"
+  },
+  "homepage": "https://github.com/BlakeMercer99/BlakeWars#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "phaser": "^3.90.0"
+  }
+}
